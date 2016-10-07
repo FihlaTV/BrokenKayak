@@ -26,9 +26,12 @@ Features:
 Why it is 'broken' :
 
 -Admin feature: If you were an admin you are supposed to be able to edit client info and add or edit flights. Due to time constraints we never got that to work. Also if you try to book a flight as an admin, the app crashes
--Persisting: when you exit out of the app, all your changes to the client info and booked itineraries should still be there. We didn't get this to work.
 
---If you search a flight that doesnt exist, it crashes. This could be an easy fix though.
--Sometimes the emulator phone crashes when you search by time or cost. Yet if you try that exact search again it works fine. Not sure if this is due to the phone being slow and thus just crashing or if there is a stubborn bug somewhere.
+-Persisting: when you exit out of the app, all your changes to the client info and booked itineraries should still be there. We didn't get this part of persisting to work.
+
+-If you search a flight that doesnt exist, it crashes. This could be an easy fix though.
+
+-It is case sensitive so if you don't have the right capitalization, the app will crash
+
 -If the app does crash you /sometimes/ have to start over the emulator or it will keep saying 'invalid password or username'
-**/
+
