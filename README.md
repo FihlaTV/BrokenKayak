@@ -14,7 +14,7 @@ Features:
 
 -Clients can Search flights by cost or time(see flights.txt for flights you can search) and they can click on an itinerary to book the flight
 
--If you search a flight that has the source and destination that is the same it will say 'Origin and Destination can't be the same!'
+-If you search a flight that has the same source and destination, a message will say 'Origin and Destination can't be the same!'
 
 -When a client logs out, the information persists and you can see the client's changed information and booked itineraries
 
