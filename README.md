@@ -1,4 +1,4 @@
-/*BrokenKayak
+#BrokenKayak
 This is my first ever Android Studio projects. It was done in a group of four in my second year at UofT.
 See instructions.txt for detailed instructions on how you can load the app!
 --
@@ -16,8 +16,10 @@ Features:
 
 --
 Why it is 'broken' :
+
 -Admin feature: If you were an admin you are supposed to be able to edit client info and add or edit flights. Due to time constraints we never got that to work. Also if you try to book a flight as an admin, the app crashes
 -Persisting: when you exit out of the app, all your changes to the client info and booked itineraries should still be there. We didn't get this to work.
+
 --If you search a flight that doesnt exist, it crashes. This could be an easy fix though.
 -Sometimes the emulator phone crashes when you search by time or cost. Yet if you try that exact search again it works fine. Not sure if this is due to the phone being slow and thus just crashing or if there is a stubborn bug somewhere.
 -If the app does crash you /sometimes/ have to start over the emulator or it will keep saying 'invalid password or username'
