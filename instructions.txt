@@ -1,0 +1,42 @@
+                   —!How to make Brokenkayak work!—
+
+-create new project: File -> New -> New Project
+application name: BrokenKayak
+companyname: group_0757
+
+-Choose minimum sdk: 
+froyo android 2.2 Edit Oct 7, 2016: Android Studio doesn’t seem to have froyo anymore. I think the lowest one they have will work
+
+-Create a new empty activity
+make the activity name: Login
+
+-create a package in main/java/ and call it driver
+How to: Right click on java. java-> New -> Package. Click app/main/java. Type in ‘driver’
+
+-create a package in main/java/ and call it backend
+How to: Right click on java. java-> New -> Package. Click app/main/java. Type in ‘backend’
+
+- COPY AndroidManifest.xml in PIII/BrokenkayakFINAL from group_0757 repository and PASTE into app/manifests in Android Studio
+
+-COPY ALL files in PIII/BrokenkayakFINAL/java/backend from group_0757 repository and PASTE into  app/java/backend in Android Studio
+
+-Copy Driver.java in PIII/BrokenkayakFINAL/java/driver from group_0757 repository and PASTE into app/java/driver in Android Studio
+
+-COPY ALL files in PIII/BrokenkayakFINAL/java/group_0757/brokenkayak from group_0757 repository and PASTE into  app/java/group_0757.brokenkayak in Android Studio
+
+-COPY ALL files in PIII/BrokenkayakFINAL/layout from group_0757 repository and PASTE into  app/res/layout in Android Studio
+
+-COPY strings.xml in PIII/BrokenkayakFINAL from group_0757 repository and PASTE into app/res/values
+
+-WHILE THE EMULATOR IS RUNNING: push files ‘clients.txt’,’flights.txt’,’passwords.txt’ located in PIII/BrokenKayakFINAL from group_0757 repository into Android Studio.
+How to push: Click Android device monitor, data -> data -> group_0757 -> files then click ‘Put file on device’ icon and click ‘clients.txt’,’flights.txt’ and ‘passwords.txt’ and press open.
+
+-Press ‘Make Project’ icon and then press ‘Run app’ icon, press ‘launch emulator’ , then press ok
+
+-Go to app on phone and sign in using one of the emails and passwords in passwords.txt
+
+-Search a flight using the flight locations in flights.txt
+
+-The Nexus S API 10 Emulator was used
+
+-*!Ta da!*

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Brokenkayak</string>
+    <string name="date_format">YYYY-MM-DD</string>
+    <string name="email_format">john.doe@gmail.com</string>
+    <string name="title_activity_client_menu">ClientMenu</string>
+    <string name="title_activity_search_flights">SearchFlights</string>
+    <string name="search_flights_and_itineraries">Search Flights and Itineraries</string>
+    <string name="origin">Origin</string>
+    <string name="destination">Destination</string>
+    <string name="departure_date">Departure Date</string>
+    <string name="search">Search!</string>
+    <string name="flight_here">Flight Here</string>
+    <string name="time_here">Time here</string>
+    <string name="available_flights">These are Our Available Itineraries</string>
+</resources>
