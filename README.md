@@ -1,5 +1,5 @@
 #BrokenKayak
-This is my first ever Android Studio projects. It was done in a group of four in my second year at UofT.
+This is my first ever Android Studio project. It was done in a group of four in my second year at UofT.
 See instructions.txt for detailed instructions on how you can load the app!
 --
 Features:
