@@ -25,7 +25,7 @@ Features:
 --
 Why it is 'broken' :
 
--Admin feature: If you were an admin you are supposed to be able to edit client info and add or edit flights. Due to time constraints we never got that to work. Also if you try to book a flight as an admin, the app crashes
+-Admin feature: If you sign in as an admin you are supposed to be able to edit client info and add or edit flights. Due to time constraints we never got that to work. Also if you try to book a flight as an admin, the app crashes
 
 -Persisting: when you exit out of the app, all your changes to the client info and booked itineraries should still be there. We didn't get this part of persisting to work.
 
