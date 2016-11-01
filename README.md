@@ -34,4 +34,5 @@ Why it is 'broken' :
 -It is case sensitive so if you don't have the right capitalization, the app will crash
 
 -If the app does crash you /sometimes/ have to start over the emulator or it will keep saying 'invalid password or username'
+*Any fixes would be appreciated*
 
